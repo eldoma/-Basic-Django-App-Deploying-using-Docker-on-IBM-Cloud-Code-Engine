@@ -1,5 +1,6 @@
 # Basic-Django-App-Deploying-using-Docker-on-IBM-Cloud-Code-Engine
 Basic Django App Deploying using Docker, creating a Docker image, containerize &amp; share it on IBM Cloud Code Engine 
+### _not tested on VS Code Standalone Docker_
 
 ## Install these must-have packages and setup the Django environment.
 - pip install --upgrade distro-info
