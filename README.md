@@ -58,7 +58,7 @@ Run the following command to create an empty Dockerfile
 - touch Dockerfile
 
 Then open the newly created Dockerfile and copy the following contents to it.
-- # syntax=docker/dockerfile:1
+- syntax=docker/dockerfile:1
 - FROM python:3
 - ENV PYTHONDONTWRITEBYTECODE=1
 - ENV PYTHONUNBUFFERED=1
